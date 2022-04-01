@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/task-management-frontend/static/css/main.21e1db94.chunk.css",
+    "main.js": "/task-management-frontend/static/js/main.bb063eb3.chunk.js",
+    "main.js.map": "/task-management-frontend/static/js/main.bb063eb3.chunk.js.map",
+    "runtime~main.js": "/task-management-frontend/static/js/runtime~main.961a32b0.js",
+    "runtime~main.js.map": "/task-management-frontend/static/js/runtime~main.961a32b0.js.map",
+    "static/js/2.304b38f5.chunk.js": "/task-management-frontend/static/js/2.304b38f5.chunk.js",
+    "static/js/2.304b38f5.chunk.js.map": "/task-management-frontend/static/js/2.304b38f5.chunk.js.map",
+    "index.html": "/task-management-frontend/index.html",
+    "precache-manifest.649f42732c93e07d001074c8935a260d.js": "/task-management-frontend/precache-manifest.649f42732c93e07d001074c8935a260d.js",
+    "service-worker.js": "/task-management-frontend/service-worker.js",
+    "static/css/main.21e1db94.chunk.css.map": "/task-management-frontend/static/css/main.21e1db94.chunk.css.map"
+  }
+}
